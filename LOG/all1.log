@@ -1,0 +1,16 @@
+[37m2024-03-18 22:14:04,859 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:63] - DEBUG: [DEBUG]: hello[0m
+[32m2024-03-18 22:14:04,860 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:67] - INFO: [INFO]: hello[0m
+[33m2024-03-18 22:14:04,860 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:71] - WARNING: [WARNING]: hello[0m
+[31m[1m2024-03-18 22:14:04,860 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:79] - CRITICAL: [CRITICAL]: hello[0m
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s
+2024-03-18 22:18:20,614 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:67] - DEBUG: [DEBUG]: hello
+2024-03-18 22:18:20,615 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:71] - INFO: [INFO]: hello
+2024-03-18 22:18:20,615 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:75] - WARNING: [WARNING]: hello
+2024-03-18 22:18:20,615 - C:\Users\41884\Desktop\py_uncommon\LOG\log_color_full.py[line:83] - CRITICAL: [CRITICAL]: hello

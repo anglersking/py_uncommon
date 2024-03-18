@@ -1,0 +1,10 @@
+2024-03-18 21:49:39,950 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:34] - DEBUG: debug
+2024-03-18 21:49:39,950 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:35] - INFO: info
+2024-03-18 21:49:39,950 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:36] - WARNING: 警告
+2024-03-18 21:49:39,951 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:37] - ERROR: 报错
+2024-03-18 21:49:39,951 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:38] - CRITICAL: 严重
+2024-03-18 21:50:25,299 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:34] - DEBUG: debug
+2024-03-18 21:50:25,299 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:35] - INFO: info
+2024-03-18 21:50:25,301 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:36] - WARNING: 警告
+2024-03-18 21:50:25,301 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:37] - ERROR: 报错
+2024-03-18 21:50:25,302 - C:\Users\41884\Desktop\py_uncommon\LOG\log_normal.py[line:38] - CRITICAL: 严重
